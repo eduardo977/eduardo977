@@ -27,4 +27,6 @@ raw Markdown line up prettily. You can also use inline Markdown.
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
-1 | 2 | 3
+1 | 2 | 
+Inline-style: 
+![alt text](https://www.gannett-cdn.com/-mm-/225e7b152ec9e70b6bbebac0d65db55e3bba8366/c=24-176-2045-1320/local/-/media/USATODAY/test/2013/09/06/1378482805000-chinaduck090613-013.jpg"Logo Title Text 1")
