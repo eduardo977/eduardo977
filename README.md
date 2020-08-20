@@ -14,19 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 
 Inline-style: 
-![alt text](https://www.gannett-cdn.com/-mm-/225e7b152ec9e70b6bbebac0d65db55e3bba8366/c=24-176-2045-1320/local/-/media/USATODAY/test/2013/09/06/1378482805000-chinaduck090613-013.jpg"Logo Title Text 1")
+![alt text](https://s3.distributorcentral.com/uploads/6/1/6172FA6BE110D08BC61F6307A7E71B3C.jpg "Logo Title Text 1")
